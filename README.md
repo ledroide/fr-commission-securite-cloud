@@ -11,6 +11,10 @@ Les études et documents cités sont sur [presentations/sources](https://drive.g
 
 ## Démonstrations
 
+Revoir d'abord la démonstration d'intrusion par plugin de reverse-shell dans Wordpress par Laurent Gomez a la conference [Le Cloud, nouveau fort de Vauban, SophiaConf 2015](https://youtu.be/r-ZUCnhM3eE).
+
+Puis les commandes exécutées :
+
 ```bash
 ~ $ docker exec mysql-wp ps auxwww 
 USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
