@@ -3,7 +3,7 @@ FR - Supports de présentation en français pour la commission sécurité &amp; 
 
 ## Diaporama de présentation
 
-Document unique : [Commission sécurité cloud.pdf](./Commission sécurité cloud.pdf)
+Document unique : [Commission sécurité cloud.pdf](https://github.com/ledroide/fr-commission-securite-cloud/Commission%20s%C3%A9curit%C3%A9%20cloud.pdf)
 
 ## Sources et documentation
 
