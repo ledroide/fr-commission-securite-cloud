@@ -63,3 +63,7 @@ jujube@D20854-Gailuron:~$ ./Downloads/install/gitlab/gitlab-ci.install.bin
 root
 # 
 ```
+
+## Liens complémentaires
+
+* (Annonce de la conférence)[http://www.telecom-valley.fr/6-fevrier-2018-commission-securite-cloud/]
