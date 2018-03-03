@@ -66,4 +66,4 @@ root
 
 ## Liens complémentaires
 
-* (Annonce de la conférence)[http://www.telecom-valley.fr/6-fevrier-2018-commission-securite-cloud/]
+* [Annonce de la conférence](http://www.telecom-valley.fr/6-fevrier-2018-commission-securite-cloud/)
